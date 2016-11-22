@@ -1,0 +1,2 @@
+A diferença básica entre os dois padrões de projetos está em seus focos, o padrão state tem um foco totalmente voltado para a representação de estados da interface através de um objeto pré-definido, o padrão strategy é focado na diferenciação através do uso diferentes de métodos.
+Não haveriam muitas alterações na estrutura das classes de relatórios, a principal mudança que se daria ao trazer tais classes para o padrão state seria a criação de um objeto para representar através de estados qual tipo de relatório está sendo usado.
